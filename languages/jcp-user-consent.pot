@@ -1,0 +1,73 @@
+# Copyright (C) 2018 JCP User Consent
+# This file is distributed under the same license as the JCP User Consent package.
+msgid ""
+msgstr ""
+"Project-Id-Version: JCP User Consent 1.1\n"
+"Report-Msgid-Bugs-To: http://wordpress.org/tag/jcp-user-consent\n"
+"POT-Creation-Date: 2018-05-26 10:06:20+00:00\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"PO-Revision-Date: 2018-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+
+#: jcp-user-consent.php:46
+msgid "storing my data"
+msgstr ""
+
+#: jcp-user-consent.php:47
+msgid "I agree to %s."
+msgstr ""
+
+#: jcp-user-consent.php:51
+msgid "I agree to storing my data."
+msgstr ""
+
+#: jcp-user-consent.php:60
+msgid "ERROR"
+msgstr ""
+
+#: jcp-user-consent.php:60
+msgid "You must agree to store your data."
+msgstr ""
+
+#: jcp-user-consent.php:94
+msgid "[%s] Complete registration"
+msgstr ""
+
+#: jcp-user-consent.php:95
+msgid ""
+"Hello %s!\r\n"
+"\r\n"
+"Thanks for your registration on %s. To complete the registration process and "
+"set a password for your account please click here: %s"
+msgstr ""
+
+#: jcp-user-consent.php:156
+msgid "Thanks for granting consent!"
+msgstr ""
+
+#: jcp-user-consent.php:171
+msgid "Consent"
+msgstr ""
+
+#: jcp-user-consent.php:189
+msgid "Granted"
+msgstr ""
+
+#: jcp-user-consent.php:239
+msgid "Account not enabled"
+msgstr ""
+
+#. Plugin Name of the plugin/theme
+msgid "JCP User Consent"
+msgstr ""
+
+#. Description of the plugin/theme
+msgid "General Data Protection Regulations adjustments for user registration"
+msgstr ""
+
+#. Author of the plugin/theme
+msgid "Andre Lohan"
+msgstr ""
